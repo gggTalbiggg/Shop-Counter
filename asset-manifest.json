@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shop-Counter/static/css/main.eab24d3c.chunk.css",
+    "main.js": "/Shop-Counter/static/js/main.abcfab29.chunk.js",
+    "main.js.map": "/Shop-Counter/static/js/main.abcfab29.chunk.js.map",
+    "runtime-main.js": "/Shop-Counter/static/js/runtime-main.53a1f471.js",
+    "runtime-main.js.map": "/Shop-Counter/static/js/runtime-main.53a1f471.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Shop-Counter/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.966a6480.chunk.js": "/Shop-Counter/static/js/2.966a6480.chunk.js",
+    "static/js/2.966a6480.chunk.js.map": "/Shop-Counter/static/js/2.966a6480.chunk.js.map",
+    "index.html": "/Shop-Counter/index.html",
+    "precache-manifest.78b270e9bc02e9038a1227ce69c9a7a9.js": "/Shop-Counter/precache-manifest.78b270e9bc02e9038a1227ce69c9a7a9.js",
+    "service-worker.js": "/Shop-Counter/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Shop-Counter/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.eab24d3c.chunk.css.map": "/Shop-Counter/static/css/main.eab24d3c.chunk.css.map",
+    "static/js/2.966a6480.chunk.js.LICENSE.txt": "/Shop-Counter/static/js/2.966a6480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53a1f471.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.966a6480.chunk.js",
+    "static/css/main.eab24d3c.chunk.css",
+    "static/js/main.abcfab29.chunk.js"
+  ]
+}
